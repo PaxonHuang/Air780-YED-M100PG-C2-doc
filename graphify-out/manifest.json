@@ -1,0 +1,247 @@
+{
+  "0\u3001IOT\u5173\u4e8e\u4efb\u52a1\u6559\u7a0b\u7684\u8bf4\u660e\uff08\u5fc5\u770b\uff09.md": {
+    "mtime": 1784601887.1968327,
+    "ast_hash": "a32ef835dde3b5b4c08e42a806181a9c",
+    "semantic_hash": ""
+  },
+  "DTU\u56fa\u4ef6\u5b9e\u4f8b\u8bb2\u89e3/GPS\u57fa\u7ad9\u5b9a\u4f4d\u914d\u7f6e\u6d4b\u8bd5\u5b9e\u4f8b.md": {
+    "mtime": 1784615198.9052439,
+    "ast_hash": "2f092a7e508d60805b76a3cfc6946705",
+    "semantic_hash": ""
+  },
+  "DTU\u56fa\u4ef6\u5b9e\u4f8b\u8bb2\u89e3/HTTP\u914d\u7f6e\u6d4b\u8bd5\u5b9e\u4f8b.md": {
+    "mtime": 1784614544.3275,
+    "ast_hash": "78ae7bd978f78729e7e2bfa3e12ad7fe",
+    "semantic_hash": ""
+  },
+  "DTU\u56fa\u4ef6\u5b9e\u4f8b\u8bb2\u89e3/MQTT\u8fdc\u7a0b\u63a7\u5236DTU\u8d44\u6e90\u5b9e\u4f8b.md": {
+    "mtime": 1784614603.1119137,
+    "ast_hash": "58f75ea5999c3761762e7620c90ee0eb",
+    "semantic_hash": ""
+  },
+  "DTU\u56fa\u4ef6\u5b9e\u4f8b\u8bb2\u89e3/MQTT\u914d\u7f6e\u6d4b\u8bd5\u5b9e\u4f8b.md": {
+    "mtime": 1784603658.6148367,
+    "ast_hash": "d41d8cd98f00b204e9800998ecf8427e",
+    "semantic_hash": ""
+  },
+  "DTU\u56fa\u4ef6\u5b9e\u4f8b\u8bb2\u89e3/TCP\u8fdc\u7a0b\u63a7\u5236DTU\u8d44\u6e90\u5b9e\u4f8b.md": {
+    "mtime": 1784603535.1187272,
+    "ast_hash": "7f0c71a821ebaa25c25fe555fe0b3025",
+    "semantic_hash": ""
+  },
+  "DTU\u56fa\u4ef6\u5b9e\u4f8b\u8bb2\u89e3/TCP\u914d\u7f6e\u6d4b\u8bd5\u5b9e\u4f8b.md": {
+    "mtime": 1784601652.5138223,
+    "ast_hash": "64c032ebc20ad3535525252955e7f441",
+    "semantic_hash": ""
+  },
+  "DTU\u56fa\u4ef6\u5b9e\u4f8b\u8bb2\u89e3/UDP\u914d\u7f6e\u6d4b\u8bd5\u5b9e\u4f8b.md": {
+    "mtime": 1784603553.7685828,
+    "ast_hash": "d41d8cd98f00b204e9800998ecf8427e",
+    "semantic_hash": ""
+  },
+  "DTU\u56fa\u4ef6\u5b9e\u4f8b\u8bb2\u89e3/WebSocket\u914d\u7f6e\u6d4b\u8bd5\u5b9e\u4f8b.md": {
+    "mtime": 1784614626.2704563,
+    "ast_hash": "25eee054d9dcb57c8472272b52ff7d77",
+    "semantic_hash": ""
+  },
+  "DTU\u56fa\u4ef6\u5b9e\u4f8b\u8bb2\u89e3/\u81ea\u52a8\u8f6e\u8be2\u5b9e\u4f8b.md": {
+    "mtime": 1784615275.8398588,
+    "ast_hash": "66018d876cb772e6161e7e8597860011",
+    "semantic_hash": ""
+  },
+  "DTU\u6307\u4ee4\u624b\u518c/0\u3001\u6307\u4ee4\u4f7f\u7528\u573a\u666f.md": {
+    "mtime": 1784615380.1477165,
+    "ast_hash": "60f66d279ed97aa88e4ff9d9b7b9d58d",
+    "semantic_hash": ""
+  },
+  "DTU\u6307\u4ee4\u624b\u518c/10\u3001DTU\u900f\u4f20\u56fa\u4ef6\u7f51\u7edc\u534f\u8bae\u547d\u4ee4.md": {
+    "mtime": 1784615679.0262823,
+    "ast_hash": "ad38e9ab4f38e65d8380cfc434b62d0e",
+    "semantic_hash": ""
+  },
+  "DTU\u6307\u4ee4\u624b\u518c/13\u3001\u5355\u6b21\u7f51\u7edc\u8bf7\u6c42\u547d\u4ee4.md": {
+    "mtime": 1784615712.451689,
+    "ast_hash": "7da30e13e6b177cca5c73958c7667dee",
+    "semantic_hash": ""
+  },
+  "DTU\u6307\u4ee4\u624b\u518c/1\u3001DTU\u900f\u4f20\u56fa\u4ef6\u547d\u4ee4\u7ea6\u5b9a.md": {
+    "mtime": 1784615413.6046946,
+    "ast_hash": "82c01f64492fe1842aa9ba5f8f011090",
+    "semantic_hash": ""
+  },
+  "DTU\u6307\u4ee4\u624b\u518c/2\u3001DTU\u900f\u4f20\u56fa\u4ef6\u53d8\u91cf\u8bf4\u660e.md": {
+    "mtime": 1784615437.4317904,
+    "ast_hash": "eb8bc8607501d6413eb4516a397937e9",
+    "semantic_hash": ""
+  },
+  "DTU\u6307\u4ee4\u624b\u518c/3\u3001DTU\u900f\u4f20\u56fa\u4ef6\u57fa\u672c\u547d\u4ee4.md": {
+    "mtime": 1784615477.6326373,
+    "ast_hash": "9962d4604c40360a9bb82594f00c9c5e",
+    "semantic_hash": ""
+  },
+  "DTU\u6307\u4ee4\u624b\u518c/4\u3001DTU\u56fa\u4ef6\u7f51\u7edc\u7ef4\u62a4\u547d\u4ee4.md": {
+    "mtime": 1784615572.5730991,
+    "ast_hash": "08dfce52a3ea07f9f1f3e8a5f39e41de",
+    "semantic_hash": ""
+  },
+  "DTU\u6307\u4ee4\u624b\u518c/5\u3001DTU\u900f\u4f20\u56fa\u4ef6\u5b9a\u4f4d\u547d\u4ee4.md": {
+    "mtime": 1784615576.4699583,
+    "ast_hash": "1ebc05c51791d6ce881a699a8fd1ac0e",
+    "semantic_hash": ""
+  },
+  "DTU\u6307\u4ee4\u624b\u518c/6\u3001DTU\u900f\u4f20\u56fa\u4ef6\u786c\u4ef6\u8d44\u6e90\u547d\u4ee4.md": {
+    "mtime": 1784615596.2425992,
+    "ast_hash": "b258e00dbc69009671bf037530321308",
+    "semantic_hash": ""
+  },
+  "DTU\u6307\u4ee4\u624b\u518c/7\u3001DTU\u900f\u4f20\u56fa\u4ef6APN\u8bbe\u7f6e\u547d\u4ee4.md": {
+    "mtime": 1784615621.0655718,
+    "ast_hash": "50f1b7117b68dde8a99a9ba444a10c08",
+    "semantic_hash": ""
+  },
+  "DTU\u6307\u4ee4\u624b\u518c/8\u3001DTU\u900f\u4f20\u56fa\u4ef6\u8bbe\u7f6e\u4e32\u53e3\u53c2\u6570\u547d\u4ee4.md": {
+    "mtime": 1784615654.6191874,
+    "ast_hash": "5d95720d0bd14be3f20be98ebe3c1b6f",
+    "semantic_hash": ""
+  },
+  "DTU\u6307\u4ee4\u624b\u518c/9\u3001DTU\u900f\u4f20\u56fa\u4ef6\u81ea\u52a8\u8f6e\u8be2\u547d\u4ee4.md": {
+    "mtime": 1784615673.57064,
+    "ast_hash": "3123f39fba6cddbf4821660d9bad87eb",
+    "semantic_hash": ""
+  },
+  "DTU\u6307\u4ee4\u624b\u518c/DTU\u6307\u4ee4\u624b\u518c.md": {
+    "mtime": 1784615757.6598203,
+    "ast_hash": "8c7cdbf6a57ac7bc8a1d80adb6fc3f56",
+    "semantic_hash": ""
+  },
+  "DTU\u901a\u7528\u5165\u95e8\u6559\u7a0b/DTU\u901a\u7528\u5165\u95e8\u6559\u7a0b.md": {
+    "mtime": 1784616377.061852,
+    "ast_hash": "0b342056f02021059fe3d893a7f5b240",
+    "semantic_hash": ""
+  },
+  "M100PG-C2.md": {
+    "mtime": 1784601234.6100922,
+    "ast_hash": "c03b06eae17bc8f36859f04bf46a5487",
+    "semantic_hash": ""
+  },
+  "README.md": {
+    "mtime": 1784632341.2230525,
+    "ast_hash": "294beba0151e7a8e55d0225717e90a3d",
+    "semantic_hash": ""
+  },
+  "Web\u914d\u7f6e\u5de5\u5177/DTU\u56fa\u4ef6\u4efb\u52a1\u548c\u6570\u636e\u6a21\u677f\u4f7f\u7528/Air780 DTU\u56fa\u4ef6\u4efb\u52a1\u548c\u6570\u636e\u6a21\u677f\u6559\u7a0b/Air780\u4efb\u52a1demo/1-\u5b8c\u5168\u638c\u63a7\u7f51\u7edc\u548c\u4e32\u53e3\u6570\u636e\u5904\u7406.md": {
+    "mtime": 1784617564.712244,
+    "ast_hash": "32240a9ec721f4d8cec73c58954e918d",
+    "semantic_hash": ""
+  },
+  "Web\u914d\u7f6e\u5de5\u5177/DTU\u56fa\u4ef6\u4efb\u52a1\u548c\u6570\u636e\u6a21\u677f\u4f7f\u7528/Air780 DTU\u56fa\u4ef6\u4efb\u52a1\u548c\u6570\u636e\u6a21\u677f\u6559\u7a0b/Air780\u4efb\u52a1demo/10-\u670d\u52a1\u5668\u547d\u4ee4\u548c\u672c\u5730\u8f93\u5165\u63a7\u5236\u7ee7\u7535\u5668.md": {
+    "mtime": 1784617551.7618675,
+    "ast_hash": "da8a1809b701cfc6edfa729989f49af0",
+    "semantic_hash": ""
+  },
+  "Web\u914d\u7f6e\u5de5\u5177/DTU\u56fa\u4ef6\u4efb\u52a1\u548c\u6570\u636e\u6a21\u677f\u4f7f\u7528/Air780 DTU\u56fa\u4ef6\u4efb\u52a1\u548c\u6570\u636e\u6a21\u677f\u6559\u7a0b/Air780\u4efb\u52a1demo/2-\u5224\u65ad\u4e32\u53e3\u6570\u636e\u53d1\u9001\u5230\u4e0d\u540c\u7684\u7f51\u7edc\u901a\u9053.md": {
+    "mtime": 1784628125.96678,
+    "ast_hash": "5d8275256c92123f2ebd7b27b8a4c35b",
+    "semantic_hash": ""
+  },
+  "Web\u914d\u7f6e\u5de5\u5177/DTU\u56fa\u4ef6\u4efb\u52a1\u548c\u6570\u636e\u6a21\u677f\u4f7f\u7528/Air780 DTU\u56fa\u4ef6\u4efb\u52a1\u548c\u6570\u636e\u6a21\u677f\u6559\u7a0b/Air780\u4efb\u52a1demo/3-\u5468\u671f\u91c7\u96c6modbus\u6570\u636e\u89e3\u6790\u4e0a\u62a5\u670d\u52a1\u5668.md": {
+    "mtime": 1784628159.2150712,
+    "ast_hash": "d5dc9f9f8882d8555bfbbbef6b98be02",
+    "semantic_hash": ""
+  },
+  "Web\u914d\u7f6e\u5de5\u5177/DTU\u56fa\u4ef6\u4efb\u52a1\u548c\u6570\u636e\u6a21\u677f\u4f7f\u7528/Air780 DTU\u56fa\u4ef6\u4efb\u52a1\u548c\u6570\u636e\u6a21\u677f\u6559\u7a0b/Air780\u4efb\u52a1demo/4-\u8d85\u4f4e\u529f\u8017\u91c7\u96c6modbus\u8bbe\u5907\u6570\u636e\u4e0a\u62a5.md": {
+    "mtime": 1784628191.845353,
+    "ast_hash": "d61ee96fdde323f5ffdfd41eb9de9870",
+    "semantic_hash": ""
+  },
+  "Web\u914d\u7f6e\u5de5\u5177/DTU\u56fa\u4ef6\u4efb\u52a1\u548c\u6570\u636e\u6a21\u677f\u4f7f\u7528/Air780 DTU\u56fa\u4ef6\u4efb\u52a1\u548c\u6570\u636e\u6a21\u677f\u6559\u7a0b/Air780\u4efb\u52a1demo/5-MQTT \u591atopic\u63a8\u9001\u548c\u63a5\u6536\u6570\u636e.md": {
+    "mtime": 1784627979.5104659,
+    "ast_hash": "10ea269348dba6016d42b9264b37791f",
+    "semantic_hash": ""
+  },
+  "Web\u914d\u7f6e\u5de5\u5177/DTU\u56fa\u4ef6\u4efb\u52a1\u548c\u6570\u636e\u6a21\u677f\u4f7f\u7528/Air780 DTU\u56fa\u4ef6\u4efb\u52a1\u548c\u6570\u636e\u6a21\u677f\u6559\u7a0b/Air780\u4efb\u52a1demo/6-GPS\u4f4e\u529f\u8017\u4e0a\u62a5\u5b9a\u4f4d\u6570\u636e.md": {
+    "mtime": 1784628002.2038746,
+    "ast_hash": "bed0e79f43d1516b83998f1e41f824cf",
+    "semantic_hash": ""
+  },
+  "Web\u914d\u7f6e\u5de5\u5177/DTU\u56fa\u4ef6\u4efb\u52a1\u548c\u6570\u636e\u6a21\u677f\u4f7f\u7528/Air780 DTU\u56fa\u4ef6\u4efb\u52a1\u548c\u6570\u636e\u6a21\u677f\u6559\u7a0b/Air780\u4efb\u52a1demo/7-GPS\u5e38\u4f9b\u7535\u4e0a\u62a5\u5b9a\u4f4d\u6570\u636e.md": {
+    "mtime": 1784628026.5406406,
+    "ast_hash": "86f538248eb9f2c24f6b23a42eb7f220",
+    "semantic_hash": ""
+  },
+  "Web\u914d\u7f6e\u5de5\u5177/DTU\u56fa\u4ef6\u4efb\u52a1\u548c\u6570\u636e\u6a21\u677f\u4f7f\u7528/Air780 DTU\u56fa\u4ef6\u4efb\u52a1\u548c\u6570\u636e\u6a21\u677f\u6559\u7a0b/Air780\u4efb\u52a1demo/8-\u8d85\u4f4e\u529f\u8017\u81ea\u52a8\u68c0\u6d4b\u8f93\u5165\u72b6\u6001\u4e0a\u62a5.md": {
+    "mtime": 1784628088.8292308,
+    "ast_hash": "e5b408858dcee196046c852ccc1b9d6f",
+    "semantic_hash": ""
+  },
+  "Web\u914d\u7f6e\u5de5\u5177/DTU\u56fa\u4ef6\u4efb\u52a1\u548c\u6570\u636e\u6a21\u677f\u4f7f\u7528/Air780 DTU\u56fa\u4ef6\u4efb\u52a1\u548c\u6570\u636e\u6a21\u677f\u6559\u7a0b/Air780\u4efb\u52a1demo/9-\u5468\u671f\u81ea\u52a8\u4e0a\u62a5\u8bbe\u5907\u72b6\u6001\u5230\u670d\u52a1\u5668.md": {
+    "mtime": 1784628665.9582295,
+    "ast_hash": "6d19cda20d00213fad6f2668c5c99e15",
+    "semantic_hash": ""
+  },
+  "Web\u914d\u7f6e\u5de5\u5177/DTU\u56fa\u4ef6\u4efb\u52a1\u548c\u6570\u636e\u6a21\u677f\u4f7f\u7528/Air780 DTU\u56fa\u4ef6\u4efb\u52a1\u548c\u6570\u636e\u6a21\u677f\u6559\u7a0b/Air780\u7cfb\u5217API\u624b\u518c.md": {
+    "mtime": 1784617507.127668,
+    "ast_hash": "19c1a8b56f01deae8cda65be34711b44",
+    "semantic_hash": ""
+  },
+  "Web\u914d\u7f6e\u5de5\u5177/DTU\u56fa\u4ef6\u4efb\u52a1\u548c\u6570\u636e\u6a21\u677f\u4f7f\u7528/\u4efb\u52a1\u548c\u6570\u636e\u6a21\u677f\u89c4\u8303.md": {
+    "mtime": 1784617059.1848588,
+    "ast_hash": "78f388b8f4a3ffa0d192d8cf6ec24799",
+    "semantic_hash": ""
+  },
+  "Web\u914d\u7f6e\u5de5\u5177/DTU\u56fa\u4ef6\u4efb\u52a1\u548c\u6570\u636e\u6a21\u677f\u4f7f\u7528/\u4efb\u52a1\u548c\u6570\u636e\u6a21\u677f\u8c03\u8bd5\u65b9\u6cd5.md": {
+    "mtime": 1784617173.1573925,
+    "ast_hash": "0c2f39ac35df2cee59bf92f06be9f75e",
+    "semantic_hash": ""
+  },
+  "Web\u914d\u7f6e\u5de5\u5177/DTU\u56fa\u4ef6\u4efb\u52a1\u548c\u6570\u636e\u6a21\u677f\u4f7f\u7528/\u4efb\u52a1\u548c\u6a21\u677f\u4e2dJSON\u6570\u636e\u7684\u5904\u7406.md": {
+    "mtime": 1784617230.2165425,
+    "ast_hash": "6606473f5db434d57887cc6fefdfc740",
+    "semantic_hash": ""
+  },
+  "Web\u914d\u7f6e\u5de5\u5177/\u53c2\u6570\u8bbe\u7f6e/DTU\u900f\u4f20\u56fa\u4ef6\u53d8\u91cf\u8bf4\u660e.md": {
+    "mtime": 1784616869.2650747,
+    "ast_hash": "6ba3ce957bfc1764f91111d107cfb874",
+    "semantic_hash": ""
+  },
+  "Web\u914d\u7f6e\u5de5\u5177/\u53c2\u6570\u8bbe\u7f6e/WEB\u914d\u7f6e\u53c2\u6570\u542b\u4e49\u8bf4\u660e.md": {
+    "mtime": 1784616899.033097,
+    "ast_hash": "3b2fac9117142213ed728d38f6e78176",
+    "semantic_hash": ""
+  },
+  "\u5e38\u4f9b\u7535\u5b9a\u4f4d\u5668\u6848\u4f8b.md": {
+    "mtime": 1784601655.4969225,
+    "ast_hash": "6a990f840ff4385835ca8c6857b2058c",
+    "semantic_hash": ""
+  },
+  "\u901a\u8baf\u534f\u8bae\u548c\u6570\u636e\u683c\u5f0f/0\u3001IOT\u7cfb\u7edf\u4fdd\u7559\u7684\u6570\u636e\u70b9\u8bf4\u660e.md": {
+    "mtime": 1784602181.0898075,
+    "ast_hash": "793973100784953cf6d3ec0d2e97fefa",
+    "semantic_hash": ""
+  },
+  "\u901a\u8baf\u534f\u8bae\u548c\u6570\u636e\u683c\u5f0f/1\u3001IOT\u7269\u6a21\u578b-MQTT\u901a\u8baf\u534f\u8bae.md": {
+    "mtime": 1784602221.1561916,
+    "ast_hash": "f44b1259de913bd011ae6443b68afd14",
+    "semantic_hash": ""
+  },
+  "\u901a\u8baf\u534f\u8bae\u548c\u6570\u636e\u683c\u5f0f/2\u3001IOT\u7269\u6a21\u578b-HTTP\u901a\u8baf\u534f\u8bae.md": {
+    "mtime": 1784602268.1647558,
+    "ast_hash": "fa057ce114ce6874880d0ce7c0be0ede",
+    "semantic_hash": ""
+  },
+  "\u901a\u8baf\u534f\u8bae\u548c\u6570\u636e\u683c\u5f0f/3\u3001IOT-MQTT\u900f\u4f20\u534f\u8bae.md": {
+    "mtime": 1784602308.3525527,
+    "ast_hash": "39954595a02c55b2756568ccef689714",
+    "semantic_hash": ""
+  },
+  "\u901a\u8baf\u534f\u8bae\u548c\u6570\u636e\u683c\u5f0f/4\u3001IOT-MQTT\u8f6c\u53d1\u534f\u8bae.md": {
+    "mtime": 1784602337.2832458,
+    "ast_hash": "9032b83a7fa2f251715845b2db729170",
+    "semantic_hash": ""
+  },
+  "\u94f6\u5c14\u8fbeIOT\u5e73\u53f0\u4ecb\u7ecd.md": {
+    "mtime": 1784601327.646901,
+    "ast_hash": "31a705450c19290383f8185628203c31",
+    "semantic_hash": ""
+  }
+}
